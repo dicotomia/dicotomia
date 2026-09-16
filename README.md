@@ -12,11 +12,7 @@
 ---
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="Laptop animado" width="35" /> Sobre mí
 
-Desarrolladora Full Stack certificada en AWS Cloud e IA Generativa. Combino un sólido bagaje técnico-sanitario y de control de calidad con la arquitectura de software, aportando una mentalidad analítica, rigor extremo y alta capacidad de resolución de problemas.
-
-* ⚙️ **Backend & Cloud:** Especializada en integración de sistemas, APIs RESTful, modelado de bases de datos relacionales y despliegues con Docker.
-* 🧠 **Innovación:** Certificaciones oficiales de AWS en Computación en la Nube e Inteligencia Artificial Generativa.
-* 🏥 **Método Científico:** Mi experiencia previa en laboratorios clínicos y entornos médicos críticos me ha entrenado en la precisión absoluta y la gestión eficiente de datos.
+Desarrolladora Full Stack certificada en AWS Cloud e IA Generativa. Combino un sólido bagaje técnico-sanitario con la arquitectura de software.
 
 ---
 
