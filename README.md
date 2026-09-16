@@ -1,18 +1,29 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Mano saludando animada" width="35" /> ¡Hola! Soy Ana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="35" />
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Mano saludando animada" width="45" /> ¡Hola! Soy Ana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="45" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39A0ED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AWS+Cloud+%26+Generative+AI;Docker+%26+REST+APIs;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ana-isabel-navarro-jimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ana-isabel-navarro-jimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dicotomia.exe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dicotomia&label=Visitas+al+perfil&color=39A0ED&style=flat" alt="Profile views" />
+</p>
+
+<br>
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="Laptop animado" width="35" /> Sobre mí
 
-Desarrolladora Full Stack certificada en AWS Cloud e IA Generativa. Combino un sólido bagaje técnico-sanitario con la arquitectura de software.
+Soy una **Desarrolladora Full Stack** certificada en AWS Cloud e IA Generativa. Mi perfil es único: combino un sólido bagaje en el sector técnico-sanitario con la pasión por la arquitectura de software. 🧬 ➡️ 💻
+
+* 🔭 **Actualmente:** Construyendo proyectos Full Stack y soluciones escalables en la nube.
+* 🌱 **Aprendiendo:** Siempre explorando nuevas herramientas de GenAI y arquitecturas limpias.
+* ⚡ **Dato curioso:** ¡Mi código funciona mejor si está impulsado por *Catfeína*! ☕🐈
 
 ---
 
@@ -64,6 +75,7 @@ Plataforma integral para un catcafé con sistema de adopciones, reservas, e-comm
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicotomia&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicotomia&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -71,10 +83,10 @@ Plataforma integral para un catcafé con sistema de adopciones, reservas, e-comm
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" />
   <br><br>
   <i><b>Ana Isabel Navarro Jiménez</b></i>
 </div>
