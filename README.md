@@ -21,9 +21,8 @@
 
 Soy una **Desarrolladora Full Stack** certificada en AWS Cloud e IA Generativa. Mi perfil es único: combino un sólido bagaje en el sector técnico-sanitario con la pasión por la arquitectura de software. 🧬 ➡️ 💻
 
-* 🔭 **Actualmente:** Construyendo proyectos Full Stack y soluciones escalables en la nube.
-* 🌱 **Aprendiendo:** Siempre explorando nuevas herramientas de GenAI y arquitecturas limpias.
-* ⚡ **Dato curioso:** ¡Mi código funciona mejor si está impulsado por *Catfeína*! ☕🐈
+* 🔭 **Actualmente:** Construyendo proyectos Full Stack & IA y soluciones escalables en la nube. 
+* 🌱 **Aprendiendo:** Máster en IA y Big Data
 
 ---
 
